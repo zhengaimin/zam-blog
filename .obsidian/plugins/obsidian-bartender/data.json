@@ -1,0 +1,26 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "React/ReactNative/原生开发基础知识": [
+      "React/ReactNative/原生开发基础知识/连接设备 + 常用 adb 命令.md",
+      "React/ReactNative/原生开发基础知识/RN 开发中常见的原生文件.md",
+      "React/ReactNative/原生开发基础知识/RN 和原生组件对应.md"
+    ],
+    "React/ReactNative": [
+      "React/ReactNative/环境配置.md",
+      "React/ReactNative/原生开发基础知识",
+      "React/ReactNative/开发"
+    ],
+    "/": [
+      "微信小程序",
+      "React",
+      "Vue",
+      "未命名"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

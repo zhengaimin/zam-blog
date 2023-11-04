@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./file",
+  "showIndentGuide": true,
+  "showLineNumber": true,
+  "readableLineLength": false
+}

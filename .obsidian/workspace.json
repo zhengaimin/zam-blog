@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "06583598afebcb61",
+    "type": "split",
+    "children": [
+      {
+        "id": "260c5d363e8cd632",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fbbf93d5f17e2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常用网站/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86a1bb07b5bc9210",
+    "type": "split",
+    "children": [
+      {
+        "id": "24322b4e312fea0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce4718ec7cf5e9f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "8e1318cd47490875",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf89c0334930e60e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "a8af4a24c67f7f46",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb0dbe5e92f54c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f0fa916c3d4e99e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "常用网站/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdd6dbce37e2d545",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "常用网站/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09a754837402ffdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "642c15b7c72d94d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "常用网站/未命名.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "ce4718ec7cf5e9f1",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "常用网站/未命名.md",
+    "常用网站",
+    "Vue/未命名",
+    "React/ReactNative/开发",
+    "React/ReactNative/原生开发基础知识/移动端设备版本兼容选择.md",
+    "React/ReactNative/原生开发基础知识/移动端特有的生产热修复机制.md",
+    "React/ReactNative/原生开发基础知识/移动端应用发布.md",
+    "React/ReactNative/原生开发基础知识/RN 和原生组件对应.md",
+    "React/ReactNative/原生开发基础知识/RN 开发中常见的原生文件.md",
+    "React/ReactNative/原生开发基础知识/连接设备 + 常用 adb 命令.md",
+    "React/ReactNative/环境配置.md",
+    "React/ReactNative/原生开发基础知识/移动端 UI 结构和设别特性.md",
+    "React/ReactNative/原生开发基础知识/file/Pasted image 20231027004831.png",
+    "React/ReactNative/原生开发基础知识/file/Pasted image 20231027004814.png",
+    "React/ReactNative/原生开发基础知识/file/Pasted image 20231027004738.png",
+    "React/ReactNative/原生开发基础知识/file/Pasted image 20231027004731.png",
+    "React/file/Pasted image 20231026000503.png",
+    "React/ReactNative/原生开发基础知识/file",
+    "React/file/a1ab3b4aea072a065e6bd87e708cd0c.jpg",
+    "React/file/微信图片_20230724152637.jpg",
+    "React/file/Pasted image 20231026000929.png",
+    "React/ReactNative/原生开发基础知识",
+    "微信小程序",
+    "Vue",
+    "2023-10-25.md",
+    "React/React Native.md",
+    "React/ReactNative",
+    "React/file/a30dfaa5532180201dbd3e83892cb70.jpg",
+    "React/file",
+    "React/attachments/微信图片_20230724152637.jpg",
+    "React/attachments",
+    "React/微信图片_20230724152637 1.jpg.md",
+    "未命名 1.md",
+    "未命名.canvas",
+    "未命名.md"
+  ]
+}
