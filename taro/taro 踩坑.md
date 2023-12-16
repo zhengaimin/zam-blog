@@ -10,11 +10,14 @@
 ---
 - VScode 格式化自动将 `PX` 转为 `px`
 	```css
-	// 解决方法
+	// 解决方法一
 	.style-taro-PX {
 	  /* prettier-ignore */
 	  font-size: 40PX;
 	}
+	
+	// 解决方法二，文件头部添加，不要添加空格，否则会失效
+	/*postcss-pxtransform disable*/
 
 
 
