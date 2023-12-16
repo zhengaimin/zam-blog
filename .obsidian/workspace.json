@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "taro/基础语法.md",
+                "file": "taro/taro 踩坑.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taro/基础语法.md",
+                "file": "taro/taro 踩坑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "taro/基础语法.md",
+                "file": "taro/taro 踩坑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "taro/基础语法.md"
+                "file": "taro/taro 踩坑.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "8fbbf93d5f17e2b7",
   "lastOpenFiles": [
-    "taro/taro 踩坑.md",
     "taro/基础语法.md",
+    "taro/taro 踩坑.md",
     "React/ReactNative/环境配置.md",
     "taro/未命名",
     "taro",

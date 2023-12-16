@@ -5,3 +5,16 @@
 ```html
 <Image style="vertical-align:top;" />
 ```
+
+# 样式
+---
+- VScode 格式化自动将 `PX` 转为 `px`
+	```css
+	// 解决方法
+	.style-taro-PX {
+	  /* prettier-ignore */
+	  font-size: 40PX;
+	}
+
+
+
