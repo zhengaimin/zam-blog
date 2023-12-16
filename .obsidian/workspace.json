@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/ReactNative/环境配置.md",
+                "file": "taro/taro 踩坑.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/ReactNative/环境配置.md",
+                "file": "taro/taro 踩坑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/ReactNative/环境配置.md",
+                "file": "taro/taro 踩坑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/ReactNative/环境配置.md"
+                "file": "taro/taro 踩坑.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "8fbbf93d5f17e2b7",
   "lastOpenFiles": [
+    "React/ReactNative/环境配置.md",
+    "taro/taro 踩坑.md",
+    "taro/未命名",
+    "taro",
     "其他/常用命令.md",
     "其他",
-    "React/ReactNative/环境配置.md",
     "常用网站/未命名.md",
     "新建 文本文档.txt",
     "常用网站",
@@ -175,10 +178,8 @@
     "React/file/Pasted image 20231026000929.png",
     "React/ReactNative/原生开发基础知识",
     "微信小程序",
-    "Vue",
     "2023-10-25.md",
     "React/React Native.md",
-    "React/ReactNative",
     "React/file/a30dfaa5532180201dbd3e83892cb70.jpg",
     "React/attachments/微信图片_20230724152637.jpg",
     "React/微信图片_20230724152637 1.jpg.md",
