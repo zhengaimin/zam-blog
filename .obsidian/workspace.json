@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "taro/基础语法.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#taro/坑/图片",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,6 +152,7 @@
   "lastOpenFiles": [
     "taro/taro 踩坑.md",
     "taro/基础语法.md",
+    "taro/标签.md",
     "React/ReactNative/环境配置.md",
     "taro/未命名",
     "taro",
