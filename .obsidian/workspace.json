@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "taro/基础语法.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8fbbf93d5f17e2b7",
+  "active": "ce4718ec7cf5e9f1",
   "lastOpenFiles": [
     "taro/taro 踩坑.md",
     "taro/基础语法.md",
